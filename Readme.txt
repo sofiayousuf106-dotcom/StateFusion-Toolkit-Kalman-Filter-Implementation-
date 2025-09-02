@@ -1,5 +1,5 @@
 
-This repository contains the Kalman Filter Implementation only.For ready to use code implementations, and advanced examples on Kalman Filters, Extended Kalman Filter, Particle Filters.The complete StateFusion Toolkit can be requested using the following link:
+This repository contains the Kalman Filter Implementation only from the StateFusion Toolkit.For ready to use code implementations, and advanced examples on Kalman Filters, Extended Kalman Filter, Particle Filters.The complete StateFusion Toolkit can be requested using the following link:
 
 https://sofiayousuf106.wixsite.com/syprogrammingandtech/about-1-2
 
